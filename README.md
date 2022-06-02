@@ -1,7 +1,7 @@
 # esx_status
 
 # TUTO FR
-[Comment installer l'esx_status ?]
+Comment installer l'esx_status ?
 
 1) Téléchargez le fichier et glissez-le dans votre base.
 3) Importer le fichier kazer.sql dans votre base de données.
@@ -14,8 +14,10 @@ ensure esx_status
 
 Si vos huds ne fonctionnent pas, n'oubliez pas de remplacer le AddEventHandler TriggersEvent... par esx_newui:updateBasics & updateStatus :)
 
+___________________________
+
 # TUTO EN
-[How to install esx_status]
+How to install esx_status ?
 
 1) Download the file and drag it into your database.
 3) Import the file kazer.sql in your database.
